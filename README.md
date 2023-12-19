@@ -1,4 +1,4 @@
-# ios-SlideMenu
+# ios-SideMenu
 -  Example project of a native menu slide in Swift
 
 # Demo
